@@ -8,7 +8,7 @@ export const CustomLink = Link.extend({
       linkOnPaste: true,
       autolink: true,
       protocols: [],
-      HTMLAttributes: {},
+      // HTMLAttributes: {},
     };
   },
 
